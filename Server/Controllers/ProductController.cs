@@ -35,12 +35,12 @@ namespace BlazorEcommerce.Server.Controllers
             Title = "Nineteen Eighty-Four",
             Description = "Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.",
             ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1984first.jpg/220px-1984first.jpg",
-            Price = 9.99m
+            Price = 9.98m
             }
             };
 
         [HttpGet]
-        public async Task<IActionResult> GetProduct()
+        public async Task<ActionResult<List<Product>>> GetProducts()
         {
             return Ok(Products);
         }

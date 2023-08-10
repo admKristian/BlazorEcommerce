@@ -9,21 +9,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorEcommerce.Server
 build_property.RootNamespace = BlazorEcommerce.Server
-build_property.ProjectDir = C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Server\
+build_property.ProjectDir = c:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Server
+build_property.MSBuildProjectDirectory = c:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Pages/Error.cshtml]
+[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/Error.cshtml]
+[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/_Layout.cshtml]
+[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
