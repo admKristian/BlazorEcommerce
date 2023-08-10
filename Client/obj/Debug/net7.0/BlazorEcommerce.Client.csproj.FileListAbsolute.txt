@@ -833,5 +833,5 @@ C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.
 C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\BlazorEcommerce.Client.pdb
 c:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\ref\BlazorEcommerce.Client.dll
 C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\scopedcss\Shared\ProductList.razor.rz.scp.css
-C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\build-gz\5ltyY6mQ.gz
-C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\build-gz\px96+bKa.gz
+C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\build-gz\ISg83rV+.gz
+C:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Client\obj\Debug\net7.0\build-gz\v9t+JSB5.gz
