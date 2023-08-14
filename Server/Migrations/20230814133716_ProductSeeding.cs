@@ -5,7 +5,7 @@
 namespace BlazorEcommerce.Server.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateInitial : Migration
+    public partial class ProductSeeding : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

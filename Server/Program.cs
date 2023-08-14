@@ -1,6 +1,6 @@
 global using BlazorEcommerce.Shared;
 global using Microsoft.EntityFrameworkCore;
-using BlazorEcommerce.Server.Data;
+global using BlazorEcommerce.Server.Data;
 
 // Create the builder for the web app
 var builder = WebApplication.CreateBuilder(args);
