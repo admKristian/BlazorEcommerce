@@ -16,14 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\iverikri\Desktop\Projects\Privat\BlazorEcommerce\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Pages/Error.cshtml]
+[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/Error.cshtml]
+[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/_Layout.cshtml]
+[c:/Users/iverikri/Desktop/Projects/Privat/BlazorEcommerce/Server/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
